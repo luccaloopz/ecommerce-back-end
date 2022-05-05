@@ -43,7 +43,7 @@ router.get('/:id', async (req, res) => {
     });
 
     if (productData === null) {
-      res.status(404).json({ message: 'No traveller found with this id!' });
+      res.status(404).json({ message: "No product found with this id!" });
       return;
     } else {
       res.status(200).json(productData);
