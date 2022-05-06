@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## **Description**
-The purpose of this project was to take some modify some starter code to essentially create the back end to an ecommerce store. In order to interact with the database, the Sequelize ORM was used.
+The purpose of this project was to modify some starter code to essentially create the back end of an ecommerce store. In order to interact with the database, the Sequelize ORM was used.
 
 ## **Technologies**
 
